@@ -12,5 +12,5 @@ We host weekly calls that are open to anyone. Just check out our [community cale
 ## Our community channels:
 * [TE Academy Discord](https://dsc.gg/te-academy) - 💬 Learn Token Engineering. Discuss Token Engineering.
 * [Token Engineering Twitter](https://twitter.com/tokengineering) - 💬 Daily updates from the token universe
-* [TE Commons Discord](https://discord.gg/8u7Z3ft) - 💬 Token Engineering Commons - managing and funding Token Engineering public goods
+* [TE Commons Discord](https://discord.gg/st9dWnEQMU) - 💬 Token Engineering Commons - managing and funding Token Engineering public goods
 * [cadCAD Community Forum](https://community.cadcad.org/) - 🖥️ A community of researchers learning & building on the open source simulation & modeling tool that is the foundation of open token engineering.
